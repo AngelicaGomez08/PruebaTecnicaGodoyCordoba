@@ -1,0 +1,44 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh; 
+  }
+  
+  .user-list-card {
+    width: 80%;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .title {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .table-container {
+    overflow-x: auto;
+    margin-top: 20px;
+  }
+  
+  .no-users {
+    font-size: 16px;
+    color: gray;
+    margin-top: 10px;
+  }
+  
+  .mat-icon-button {
+    margin: 0 5px;
+  }
+  
+  .table-container {
+    overflow-x: auto;
+  }
+  
+  .no-users {
+    text-align: center;
+    font-style: italic;
+    color: gray;
+    margin-top: 10px;
+  }
+  
